@@ -123,8 +123,15 @@ Insert this link tag in `<head>` element
 ```html
   Exp:<body class="allct"></body>
 ```
-
-[Visit My Profile Page](https://github.com/MASTER0811)
+## Put multiple elements
+```txt
+if need want add background:#ff0000; width:50px; height50px; in <div>
+```
+```html
+<div class="bgred w50 h50">
+```
+##
+Visit My Profile Page [点击](https://github.com/MASTER0811)
 
 
 
