@@ -73,6 +73,36 @@ Insert this link tag in head element
 | `pst_sti` | sticky |
 | `pst_sta` | static |
 | `pst_ust` | unset |
+
+7. display
+ ```html
+    Exp:<div class="dpy_block"></div>
+ ```
+| Insert html class   | Display Property |                                                                                                                            
+| ------------------- | ---------- |
+| `dpy_inline` | inline |
+| `dpy_block` | block |
+| `dpy_contents` | contents |
+| `dpy_flex` | flex |
+| `dpy_grid` | grid |
+| `dpy_il-block` | inline-block |
+| `dpy_il-flex` | inline-flex |
+| `dpy_il-grid` | inline-grid |
+| `dpy_il-table` | inline-table |
+| `dpy_lt-item` | list-item |
+| `dpy_r-in` | run-in |
+| `dpy_table` | table |
+| `dpy_t-cpt` | table-caption |
+| `dpy_t-clm-group` | table-column-group |
+| `dpy_t-hdr-group` | table-header-group |
+| `dpy_t-ftr-group` | table-footer-group |
+| `dpy_t-row-group` | table-row-group |
+| `dpy_t-cell` | table-cell |
+| `dpy_t-column` | table-column |
+| `dpy_t-row` | table-row |
+| `dpy_none` | none |
+| `dpy_itl` | initial |
+| `dpy_inh` | inherit |
  
 
 ## Only Main Page
