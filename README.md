@@ -9,7 +9,7 @@ Insert this link tag in head element
 ```
 
 
-## About Inset in class
+## Make Insert in class Attribute
   1. margin
   ```txt
     Only 0px 5px 10px 15px 20px 25px 30px 35px 40px 45px 50px 55px 60px 65px 70px 75px 80px 85px 90px 95px 100px 
