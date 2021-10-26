@@ -1,6 +1,6 @@
 # CSS Api
 
-## Getting Started
+## Getting Started ``` For newcomers who are new to the language```
 
 Insert this link tag in head element
 
