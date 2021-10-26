@@ -5,7 +5,7 @@
 Insert this link tag in head element
 
 ```html
-  <link rel="stylesheet" href="https://raw.githubusercontent.com/MASTER0811/css-api/main/style.css">
+  <link rel="stylesheet" href="https://jy-web.neocities.org/index.css">
 ```
 
 
