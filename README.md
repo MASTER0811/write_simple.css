@@ -61,6 +61,19 @@ Insert this link tag in head element
 ```html
   Exp:<div class="h50"></div>
 ```
+6. position
+ ```html
+    Exp:<div class="pst_rlt"></div>
+ ```
+| Insert html class   | Position Property |                                                                                                                            
+| ------------------- | ---------- |
+| `pst_rlt` | relative |
+| `pst_abs` | absolute |
+| `pst_fic` | fixed |
+| `pst_sti` | sticky |
+| `pst_sta` | static |
+| `pst_ust` | unset |
+ 
 
 ## Only Main Page
 1. Main height
