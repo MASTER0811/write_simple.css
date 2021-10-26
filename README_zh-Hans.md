@@ -24,11 +24,11 @@
   ```html
     例子:<div class="pd50"></div>
   ```
-  3. background ``背景
+  3. background `背景`
   ```html
     例子:<div class="bgred"></div>
   ```
-| 置入在`class=""`属性   | 颜色代码 | 名字名称                                                                                                                               
+| 置入在 `class=""` 属性   | 颜色代码 | 颜色名称                                                                                                                               
 | ------------------- | ---------- | ----------|
 | `bgred` | #ff0000 | Red `红色` |
 | `bgyellow` | #ffff00 | Yellow `黄色` |
@@ -65,7 +65,7 @@
  ```html
     例子:<div class="pst_rlt"></div>
  ```
-| 置入在`class=""`属性   | 位置属性 |                                                                                                                            
+| 置入在 `class=""` 属性   | 位置属性 |                                                                                                                            
 | ------------------- | ---------- |
 | `pst_rlt` | relative |
 | `pst_abs` | absolute |
@@ -79,7 +79,7 @@
     例子:<div class="dpy_block"></div>
  ```
 可以到此链接关于更多内容 [点击](https://www.w3schools.com/cssref/pr_class_display.asp)
-| 置入在`class=""`属性   | 显示属性 |                                                                                                                           
+| 置入在 `class=""` 属性   | 显示属性 |                                                                                                                           
 | ------------------- | ---------- |
 | `dpy_inline` | inline |
 | `dpy_block` | block |
