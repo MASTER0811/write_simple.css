@@ -50,6 +50,7 @@ or
 | `bgpurple` | #9c00fe | Purple |
 | `bgbluepurple` | #4e00c2 | Blue Purple |
 | `bgmediumgrayblue` | #778899 | Medium Gray Blue |
+| `bg_lightblue`| #edf2fd | Beautiful Light Blue|
 
 4. width
   ```txt
