@@ -138,7 +138,7 @@
     background: #ffff00;
 }
 .bgaqua{
-    background: aqua;
+    background: #00ffff;
 }
 .bgwhite{
     background: #ffffff;
@@ -178,6 +178,9 @@
 }
 .bgmediumgrayblue{
     background: #778899;
+}
+.bg_lightblue{
+  background: #edf2fd;
 }
 /* background end bg */
 .w5{
@@ -308,8 +311,105 @@
 .bd_w{
     width: 100%;
 }
+.pd0{
+    padding: 0;
+}
 .allct{
     display: flex;
     align-items: center;
     justify-content: center;
 }
+/* for body end */
+
+/* position start */
+.pst_rlt{
+    position: relative;
+}
+.pst_abs{
+    position: absolute;
+}
+.pst_fic{
+    position: fixed;
+}
+.pst_sti{
+    position: sticky;
+}
+.pst_sta{
+    position: static;
+}
+.pst_ust{
+    position: unset;
+}
+/* position end */
+
+/* display start */
+.dpy_inline{
+    display: inline;
+}
+.dpy_block{
+    display: block;
+}
+.dpy_contents{
+    display: contents;
+}
+.dpy_flex{
+    display: flex;
+}
+.dpy_grid{
+    display: grid;
+}
+.dpy_il-block{
+    display: inline-block;
+}
+.dpy_il-flex{
+    display: inline-flex;
+}
+.dpy_il-grid{
+    display: inline-grid;
+}
+.dpy_il-table{
+    display: inline-table;
+}
+.dpy_lt-item{
+    display: list-item;
+}
+.dpy_r-in{
+    display: run-in;
+}
+.dpy_table{
+    display: table;
+}
+.dpy_t-cpt{
+    display: table-caption;
+}
+.dpy_t-clm-group{
+    display: table-column-group;
+}
+.dpy_t-hdr-group{
+    display: table-header-group;
+}
+.dpy_t-ftr-group{
+    display: table-footer-group;
+}
+.dpy_t-row-group{
+    display: table-row-group;
+}
+.dpy_t-cell{
+    display: table-cell;
+}
+.dpy_t-column{
+    display: table-column;
+}
+.dpy_t-row{
+    display: table-row;
+}
+.dpy_none{
+    display: none;
+}
+.dpy_itl{
+    display: initial;
+}
+.dpy_inh{
+    display: inherit;
+}
+/* display end */
