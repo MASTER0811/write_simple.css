@@ -7,10 +7,6 @@ Insert this link tag in `<head>` element
 ```html
   <link rel="stylesheet" href="https://jy-web.neocities.org/index.css">
 ```
-or
-```css
-  @import url('https://jy-web.neocities.org/index.css');
-```
 
 
 ## Make Insert in class Attribute
