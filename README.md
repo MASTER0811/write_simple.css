@@ -132,25 +132,6 @@ if need want add background:#ff0000; width:50px; height50px; in <div>
 <div class="bgred w50 h50">
 ```
 
-# Fonts Google
-
-Insert this link in `<head>` element
-## Regular Fonts
-```html
-<link rel="stylesheet" href="https://jy-web.neocities.org/regular_fonts.css">
-```
-## Italic Fonts
-```html
-<link rel="stylesheet" href="https://jy-web.neocities.org/italic_fonts.css">
-```
-| Insert html class   | Fonts Name | View Page |                                                                                                                            
-| ------------------- | ---------- | ----------|
-| `roboto` | Roboto | 
-| `` |  |
-| `` |  |
-| `` |  |
-| `` |  |
-| `` |  |
 
 ##
 Visit My Profile Page [Click Here](https://github.com/MASTER0811)
