@@ -5,7 +5,7 @@
 Insert this link tag in `<head>` element
 
 ```html
-  <link rel="stylesheet" href="https://jy-web.neocities.org/index.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/gh/MASTER0811/write_simple.css/style.css">
 ```
 
 
