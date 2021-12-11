@@ -28,7 +28,7 @@ Insert this link tag in `<head>` element
   ```html
     Exp:<div class="bgred"></div>
   ```
-| Insert html class   | Color Code | Color Name                                                                                                                                 
+| Insert html class   | Color Code | Color Name |                                                                                                                               
 | ------------------- | ---------- | ----------|
 | `bgred` | #ff0000 | Red |
 | `bgyellow` | #ffff00 | Yellow |
