@@ -46,7 +46,7 @@ Insert this link tag in `<head>` element
 | `bgpurple` | #9c00fe | Purple |
 | `bgbluepurple` | #4e00c2 | Blue Purple |
 | `bgmediumgrayblue` | #778899 | Medium Gray Blue |
-| `bgb_blue`| #edf2fd | Beautiful Light Blue|
+| `bg_lightblue`| #edf2fd | Beautiful Light Blue|
 
 4. width
   ```txt
